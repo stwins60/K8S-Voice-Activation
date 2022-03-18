@@ -42,7 +42,7 @@ def takeCommand():
             os.system('kubectl get pods')
             speak("Pods")
         elif "get services" in query:
-            os.system('kubectl get services')
+            os.system('kubectl get svc')
             speak("Services ")
         elif "get nodes" in query:
             os.system('kubectl get nodes')
