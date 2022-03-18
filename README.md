@@ -1,5 +1,5 @@
 # Kubernetes Voice Activation
 
-* Create a virtual envrionment and activate it
+* Create a virtual envrionment and install the requirements
 * Make sure you have the deployment and service files
-* Mke sure to know the name of the pods
+* Make sure to know the name of the pods, deploys, and services
