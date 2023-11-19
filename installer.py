@@ -1,6 +1,6 @@
 import os
 
-os.system('pip install pyttsx3')
-os.system('pip install SpeechRecognition')
+os.system('pip install pywin32')
+os.system('pipwin install pyaudio')
 
 
