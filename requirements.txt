@@ -3,3 +3,4 @@ pypiwin32==223
 pyttsx3==2.90
 pywin32==303
 SpeechRecognition==3.8.1
+pyaudio
